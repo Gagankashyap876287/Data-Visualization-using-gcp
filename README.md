@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask: A lightweight WSGI web application framework in Python.
 request: Flask module to handle HTTP requests.
 render_template: Flask function to render HTML templates.
@@ -49,3 +50,6 @@ DELETE: Remove a resource from the server.
 PATCH: Apply partial updates to a resource.
 OPTIONS: Describe communication options for the target resource.
 HEAD: Retrieve headers of a resource without the body.
+=======
+# Data-Visualization-using-gcp
+>>>>>>> 71edca6508e14ad4d2245b736c213294f21486c2
