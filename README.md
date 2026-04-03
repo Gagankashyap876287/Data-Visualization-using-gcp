@@ -7,7 +7,7 @@ Cloud functions helps to trigger the code after this the data will move to the g
 ![image](https://github.com/user-attachments/assets/7ad7509f-ef9c-457c-b4a1-03e0a1aa4e09)
 BigQuery is a fully managed, low-cost data warehouse and analytics platform from Google Cloud Platform that lets you store and analyze large amounts of data.
 ![image](https://github.com/user-attachments/assets/a684dd3c-4617-415c-b4b2-995575eaf7c1)
-For this i have used looker for data visualization.
+For this I have used looker for data visualization.
 
 
 
